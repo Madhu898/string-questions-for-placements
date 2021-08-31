@@ -1,3 +1,6 @@
+//the main logic is to add 32 to the all letters as difference between uppercase and lower case alphabets is 32
+            //that is fist A,B,C,D,E,F...X,Y,Z THEN a,b,c,d,e.....x,y,z 
+
 #include<iostream>
 #include<string>
 using namespace std;
